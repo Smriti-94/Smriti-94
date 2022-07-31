@@ -1,13 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Smriti</h1>
 <h3 align="center">I'm a passionate aspiring Data Analyst from India.</h3>
 
-  
-</div>
 
-<div  style="display:flex">
 <div align="center">
 <a href="#"><img width="320" height="230" src="https://media0.giphy.com/media/3ohzdYrApJ3PG1SDkI/giphy.gif"/></a>  </div>
-<div>
+
+
   ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Telecome Customer Churn](https://www.linkedin.com/feed/update/urn:li:activity:6959136708923715584/)**
@@ -21,10 +19,6 @@
 - 📫 How to reach me **smritinimrit2010@gmail.com**
 
 - ⚡ Fun fact **I am foodie**
-</div>
-</div>
-
-
 
 
 ## 🚀 Languages and Tools:
